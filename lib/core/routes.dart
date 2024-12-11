@@ -1,0 +1,1 @@
+//sayfaları ve navigasyon işlemleri burdan tanımlanacak
